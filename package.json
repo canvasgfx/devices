@@ -23,7 +23,6 @@
     "test": "ng test",
     "lint": "ng lint"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~10.1.1",
     "@angular/cdk": "~10.2.1",
